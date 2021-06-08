@@ -1,3 +1,3 @@
-module full_outer_join_test.go
+module calculator_test.go
 
 go 1.16
