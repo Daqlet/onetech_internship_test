@@ -1,3 +1,3 @@
-module calculator_test.go
+module acmp_concurrent_test.go
 
 go 1.16
